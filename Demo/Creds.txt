@@ -1,0 +1,4 @@
+Server Creds -
+MONGODB_URI=mongodb+srv://sohitraiyani2710_db_user:q4tYFKKHVtm7GR7p@cluster0.6xbkgye.mongodb.net/Payout_management?appName=Cluster0
+JWT_SECRET="S0#!t@2710"
+PORT=3000
